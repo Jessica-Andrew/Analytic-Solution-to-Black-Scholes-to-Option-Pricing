@@ -1,2 +1,2 @@
 # Analytic-Solution-to-Black-Scholes-to-Option-Pricing
-Research work on Black-Scholes Option Pricing  Equation
+Research work on Black-Scholes Option Pricing Equation by Fourier Transform
